@@ -1,7 +1,7 @@
-### Hi there 👋
+### Olá 👋
 
-- 🔭 I’m currently  cursando Ciência de Dados
-- 🌱 I’m currently learning JavaScrip, CSS, HTML e Python
+- 🔭 Cursando Ciência de Dados
+- 🌱 Atualmente estou aprendendo JavaScrip, CSS, HTML e Python
 
 <div display = "flex">
   <a href="https://github.com/edugiacomitti">
